@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there thank you for checking out my GitHub👋
 
 <!--
 **benedictnurs/benedictnurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
