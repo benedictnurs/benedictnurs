@@ -5,18 +5,11 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
 </div>
-
-
-
-<table>
-  <tr>
-    <td>
-      <picture>
+<div align="center">
 <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
 
-      </picture>
-  </tr>
-</table>
+
 
 <!--
 **benedictnurs/benedictnurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
