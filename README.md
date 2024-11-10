@@ -12,7 +12,7 @@
       </picture>
   </tr>
 </table>
-![benedictnurs snake gif](https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg)
+<img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
 
 <!--
 **benedictnurs/benedictnurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
