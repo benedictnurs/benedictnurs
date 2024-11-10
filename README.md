@@ -1,9 +1,16 @@
 ## Hey there thank you for checking out my GitHub👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=benedictnurs&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for benedictnurs" width="700">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=jolly" width="700">
 
+<table>
+  <tr>
+    <td>
+      <picture>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed	">
+
+      </picture>
+  </tr>
+</table>
 
 <table>
   <tr>
