@@ -2,15 +2,11 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <picture>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
+</div>
 
-      </picture>
-  </tr>
-</table>
+
 
 <table>
   <tr>
