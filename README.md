@@ -6,7 +6,7 @@
   <tr>
     <td>
       <picture>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed	">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
 
       </picture>
   </tr>
