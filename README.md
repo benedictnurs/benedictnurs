@@ -4,8 +4,8 @@
 
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=activity" />
-<img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=activity" />
 </div>
 
 
