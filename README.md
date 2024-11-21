@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
-  <img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap" width="1000"/>
+  <img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap" width="800"/>
 </div>
 
 
