@@ -4,8 +4,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+
+  <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
 
 </div>
 
