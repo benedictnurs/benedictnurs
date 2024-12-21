@@ -5,7 +5,8 @@
 
 <div align="center">
   <img src="https://github.com/benedictnurs/benedictnurs/blob/output/github-snake.svg" alt="Snake animation" />
-  <img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
+
 </div>
 
 
@@ -13,6 +14,8 @@
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=benedictnurs&theme=github-dark-dimmed" width="700">
+    <img src="https://leetcard.jacoblin.cool/computerguy?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap"/>
+
 </div>
 **benedictnurs/benedictnurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   =
