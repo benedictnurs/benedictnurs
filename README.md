@@ -1,6 +1,4 @@
-## Hey there thank you for checking out my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-
-
+## I'm Ben an engineer, designer, and product manager <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 
 <div align="center">
